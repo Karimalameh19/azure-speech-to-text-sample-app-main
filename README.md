@@ -12,7 +12,7 @@ The server-side code exposes a simple API that the front-end can call in order t
 git clone https://github.com/Kthwaits/azure-speech-to-text-sample-app
 ```
 
-### Rename `server/.env-sample` to `.env` and populate variables
+### create `.env` and populate variables
 
 ```
 SPEECH_KEY=paste-your-speech-key-here
